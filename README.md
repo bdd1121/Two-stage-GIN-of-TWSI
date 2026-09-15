@@ -4,15 +4,16 @@
 
 ```bash
 └─ 專案位置/
-    ├─ main/
+    ├─ Main/
     |   ├─ build_tg/
     |   ├─ dataset_stage2/
     |   ├─ extracte_emb_s1_gin/
     |   ├─ q_index/
     |   ├─ train_stage1/
-    |   └─ train_stage2/
+    |   └─ train_stage2att/
     └─ 
 ```
+
 ## !!注意事項!!
 ```bash
     1.和GNN建圖相關的套件版本不能太新，會報錯還會影響效能，請參考 environment.yml.
