@@ -1,5 +1,9 @@
 # Two-stage Classification of Thumbnail Whole-slide Pathology Image using Tissue Region Graph Representation and Attention-based Feature Fusion
 
+# 應用組織區域圖與注意力特徵融合機制之兩階段分類網路於數位全玻片病理縮圖影像
+
+這是我的碩士論文程式，請按照以下流程執行。
+
 ## Structure
 
 ```bash
@@ -11,7 +15,7 @@
     |   ├─ q_index/
     |   ├─ train_stage1/
     |   └─ train_stage2att/
-    └─ 
+    └─ enviroment.yml
 ```
 
 ## !!注意事項!!
