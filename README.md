@@ -2,7 +2,13 @@
 
 # 應用組織區域圖與注意力特徵融合機制之兩階段分類網路於數位全玻片病理縮圖影像
 
-這是我的碩士論文程式，請按照以下流程執行。
+這是我的碩士論文，主要是針對病理影像，做良惡性腫瘤的分類。
+
+## Pathology Image Example
+
+<p align="center">
+  <img src="image/demo.png" width="600">
+</p>
 
 ## Structure
 
