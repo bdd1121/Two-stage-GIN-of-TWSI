@@ -7,7 +7,7 @@
 ## Pathology Image Example
 
 <p align="center">
-  <img src="image/demo.png" width="600">
+  <img src="image/demo.png" width="300">
 </p>
 
 ## Structure
